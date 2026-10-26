@@ -19,6 +19,8 @@ Key highlights include:
 - 🔄 **Race Switch Helper** — automates the race re-roll process to target specific races efficiently
 - 🦴 **Hollow Evolution** — triggers hollow progression milestones automatically through ranked fights
 
+### [⬇️ Download Project Mugetsu Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
